@@ -1,4 +1,9 @@
 package main
 
-// Nothing
+import "fmt"
+
+func main() {
+
+
+}
 
